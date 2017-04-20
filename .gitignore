@@ -3,8 +3,8 @@
 /node_modules/
 
 system-config.js*
-app/**/*.js
-app/**/*.map
+src/app/**/*.js
+src/app/**/*.map
 jspm_packages
 bower_components
 aot/*
